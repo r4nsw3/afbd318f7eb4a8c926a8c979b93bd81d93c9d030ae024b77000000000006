@@ -1,0 +1,3 @@
+data/00/00/00/00/00.bin	da10de6d
+data/00/00/00/00/01.bin	d9779bcb
+data/00/00/00/00/02.bin	7ca8632e
